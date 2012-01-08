@@ -1,0 +1,9 @@
+[submodule "lib/ruby/grit"]
+	path = lib/ruby/grit
+	url = https://github.com/mojombo/grit.git
+[submodule "lib/ruby/diff-lcs"]
+	path = lib/ruby/diff-lcs
+	url = https://github.com/halostatue/diff-lcs.git
+[submodule "lib/ruby/mime-types"]
+	path = lib/ruby/mime-types
+	url = https://github.com/halostatue/mime-types.git
